@@ -1,0 +1,7 @@
+{
+  "user": 1,
+  "firstname": "John",
+  "role": [{ "type": "Developer" }, { "type": "Father" }],
+  "birthday": "1/1/2021",
+  "dependents": [{ "name": "James" }, { "name": "Jim" }, { "name": "Julie" }]
+}
