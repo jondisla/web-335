@@ -1,0 +1,16 @@
+{
+  "user": "Jack",
+  "_id": 123,
+  "firstName": "Jack",
+  "lastName": "Nicholson",
+  "roles": [
+    {
+      "position": "Actor",
+      "permissions": [{ "admin": true }, { "read": true }, { "write": true }]
+    },
+    {
+      "position": "Screenwriter",
+      "permissions": [{ "admin": false }, { "read": true }, { "write": false }]
+    }
+  ]
+}
