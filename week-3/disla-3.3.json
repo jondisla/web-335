@@ -1,0 +1,38 @@
+{
+  "publisher_name": "Penguin Group USA",
+  "publisher_code": "156",
+  "publisher_address": {
+    "street": "375 Hudson St",
+    "city": "Nwe York",
+    "state": "NY",
+    "zip": "10014"
+  },
+  "books": [
+    {
+      "book_name": "The Demographic Cliff",
+      "book_price": "13.99",
+      "book_isbn": "195B001485",
+      "authors": [
+        {
+          "author_first_name": "Harry",
+          "author_last_name": "Dent",
+          "author_phone": "123-456-7890",
+          "author_email": "harrydent@protonmail.com"
+        }
+      ]
+    },
+    {
+      "book_name": "Zero Hour",
+      "book_price": "14.99",
+      "book_isbn": "1760640476",
+      "authors": [
+        {
+          "author_first_name": "Harry",
+          "author_last_name": "Dent",
+          "author_phone": "123-456-7890",
+          "author_email": "harrydent@protonmail.com"
+        }
+      ]
+    }
+  ]
+}
